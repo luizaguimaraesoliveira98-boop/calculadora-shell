@@ -23,4 +23,14 @@ O projeto foi criado como atividade prática, com o objetivo de aplicar conceito
 
 ## Como executar
 
-1. Acesse a pasta do projeto pelo terminal:
+1. Acesse a pasta do projeto pelo terminal: cd caminho/do/projeto
+2. Conceda permissão de execução: chmod +x calculadora.sh
+3. Execute o script: ./calculadora.sh
+
+
+## 📌 Observação
+Este projeto também demonstra conceitos básicos de:
+- Shell Script (Bash)
+- Manipulação de entrada de dados
+- Estruturas condicionais
+- Permissões de arquivos no Linux
