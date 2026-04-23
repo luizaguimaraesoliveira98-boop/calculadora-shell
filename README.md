@@ -28,7 +28,7 @@ O projeto foi criado como atividade prática, com o objetivo de aplicar conceito
 3. Execute o script: ./calculadora.sh
 
 
-## 📌 Observação
+## Observação
 Este projeto também demonstra conceitos básicos de:
 - Shell Script (Bash)
 - Manipulação de entrada de dados
